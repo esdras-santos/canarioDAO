@@ -2,8 +2,7 @@ const { WS_RPC } = require('@vite/vitejs-ws');
 const { ViteAPI, wallet, utils, abi, accountBlock, keystore } =require('@vite/vitejs');
 
 // test account
-const seed = "turtle siren orchard alpha indoor indicate wasp such waste hurt patient correct true firm goose elegant thunder torch hurt shield taste under basket burger";
-
+const seed = " "
 // connect to node
 const connection = new WS_RPC('ws://localhost:23457');
 const provider = new ViteAPI(connection, () => {
@@ -16,13 +15,13 @@ const recipientAccount = wallet.getWallet(seed).deriveAddress(1);
 
 // fill in contract info
 const CONTRACT = {
-    binary: '608060405234801561001057600080fd5b50610141806100206000396000f3fe608060405260043610610041576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806391a6cb4b14610046575b600080fd5b6100896004803603602081101561005c57600080fd5b81019080803574ffffffffffffffffffffffffffffffffffffffffff16906020019092919050505061008b565b005b8074ffffffffffffffffffffffffffffffffffffffffff164669ffffffffffffffffffff163460405160405180820390838587f1505050508074ffffffffffffffffffffffffffffffffffffffffff167faa65281f5df4b4bd3c71f2ba25905b907205fce0809a816ef8e04b4d496a85bb346040518082815260200191505060405180910390a25056fea165627a7a7230582095190ce167757b6308031ed4b9893929f96d866542f660a6918457a96dac7d870029',    // binary code
-    abi: [{"constant":false,"inputs":[{"name":"addr","type":"address"}],"name":"sayHello","outputs":[],"payable":true,"stateMutability":"payable","type":"function"},{"anonymous":false,"inputs":[{"indexed":true,"name":"addr","type":"address"},{"indexed":false,"name":"amount","type":"uint256"}],"name":"transfer","type":"event"}],                    // JSON ABI
+    binary: '',   // binary code
+    abi: []
     offChain: '',  // binary offchain code
     address: '',   // contract address
 }
 
-CONTRACT.address = 'vite_c1905cc76eaa02c02c564b2afa0639fab53a303cbef0599bd2';
+CONTRACT.address = '';
 
 async function receiveTransaction(account) {
     // get the first unreceived tx
