@@ -5,7 +5,7 @@ which allows the addition of new functionality to the DAO. Right now Canario DAO
 
 # Warning: the UI is not finished yet
 
-### The contracts will be deployed to testnet soon and maybe later on we can do the implementation on the mainnet
+### The contracts will be deployed to testnet soon and maybe later on we can deploy to the mainnet
 
 ## Running
 
