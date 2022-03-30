@@ -16,7 +16,7 @@ which allows the addition of new functionality to the DAO. Right now Canario DAO
 2. Clone this repositore
 
 ```shell
-git clone https://github.com/esdras-santos/canario
+git clone https://github.com/esdras-santos/canarioDAO
 ```
 
 3. Inside the repositore type run: 
