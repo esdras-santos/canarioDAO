@@ -5,6 +5,8 @@ which allows the addition of new functionality to the DAO. Right now Canario DAO
 
 # Warning: the UI is not finished yet
 
+### the contract will be deployed to testnet soon and maybe later on we can do the implementation on the mainnet
+
 ## Running
 
 ### To run the frontend you can acess this public link [HERE](https://esdras-santos.github.io/#/) or follow the steps bellow.
