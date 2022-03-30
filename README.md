@@ -9,7 +9,7 @@ which allows the addition of new functionality to the DAO. Right now Canario DAO
 
 ## Running
 
-### To run the frontend you can acess this public link [HERE](https://esdras-santos.github.io/#/) or follow the steps bellow.
+### To run the frontend you can access this public link [HERE](https://esdras-santos.github.io/#/) or follow the steps bellow.
 
 1. [Install flutter](https://docs.flutter.dev/get-started/install)
 
