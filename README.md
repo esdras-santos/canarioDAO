@@ -22,18 +22,18 @@ flutter run --release
 
 ## Swap Screen
 
-![alt text](https://github.com/esdras-santos/godex/blob/master/extra_media/swap(1).PNG?raw=true)
+![alt text](https://github.com/esdras-santos/canarioDAO/blob/master/extra_media/swap(1).PNG?raw=true)
 
 ## Pool screens
 
-![alt text](https://github.com/esdras-santos/godex/blob/master/extra_media/pool(1).PNG?raw=true)
+![alt text](https://github.com/esdras-santos/canarioDAO/blob/master/extra_media/pool(1).PNG?raw=true)
 
-![alt text](https://github.com/esdras-santos/godex/blob/master/extra_media/pool(2).PNG?raw=true)
+![alt text](https://github.com/esdras-santos/canarioDAO/blob/master/extra_media/pool(2).PNG?raw=true)
 
 ## Vote Screens 
 
-![alt text](https://github.com/esdras-santos/godex/blob/master/extra_media/vote(1).PNG?raw=true)
+![alt text](https://github.com/esdras-santos/canarioDAO/blob/master/extra_media/vote(1).PNG?raw=true)
 
-![alt text](https://github.com/esdras-santos/godex/blob/master/extra_media/vote(2).PNG?raw=true)
+![alt text](https://github.com/esdras-santos/canarioDAO/blob/master/extra_media/vote(2).PNG?raw=true)
 
 
